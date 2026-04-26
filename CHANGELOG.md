@@ -4,4 +4,9 @@ All notable user-facing changes for published **Root Record Weather Manager** bu
 
 ## [Unreleased]
 
-- Public distribution repo reset: this tree now holds **README**, **CHANGELOG**, and **Releases** artifacts only (no app source).
+_(nothing yet)_
+
+## [1.0.0] — 2026-04-25
+
+- First GitHub **Release** with a sideloadable **debug** APK (`RootRecord-Weather.apk`). Install from [Releases](https://github.com/RootRecord/rootrecord-weather-manager-mobile/releases).
+- Public distribution repo holds **README**, **CHANGELOG**, and **Releases** only (no application source).
