@@ -6,6 +6,10 @@ All notable user-facing changes for published **Root Record Weather Manager** bu
 
 _(nothing yet)_
 
+## [1.0.8] — 2026-04-29
+
+- Android **1.0.8** (`versionCode` 9): maintenance release; Settings shows **v1.0.8**. Install from [Releases](https://github.com/RootRecord/rootrecord-weather-manager-mobile/releases) when the APK for this build is attached there.
+
 ## [1.0.2] — 2026-04-26
 
 - Android **1.0.2**: Settings includes **Contact & support** (site, contact form, Discord, Telegram). Install from [Releases](https://github.com/RootRecord/rootrecord-weather-manager-mobile/releases).
