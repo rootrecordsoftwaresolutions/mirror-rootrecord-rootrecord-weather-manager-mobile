@@ -1,23 +1,13 @@
-# Root Record Weather Manager (Android)
+# mirror-rootrecord-rootrecord-weather-manager-mobile
 
-<p align="center">
-  <img src="assets/brand/logo-mark.svg" alt="Root Record Weather logo" width="108" height="108">
-</p>
+> **Inventory mirror (2026-08)** — not primary development.
 
-**Root Record Weather Manager** is a RootRecord Android app for weather awareness, alerts, and operations-friendly dashboards. This repository is the **public home** for the product: release notes, changelogs, and **installable builds** published via [GitHub Releases](https://github.com/RootRecord/rootrecord-weather-manager-mobile/releases).
+> **Authority:** [RootRecord-Software-Solutions](https://github.com/RootRecord-Software-Solutions) (org)  
+> **Docs index:** [MIGRATION-DOCS-INDEX](https://github.com/RootRecord-Software-Solutions/RootRecord-Library/blob/main/Documentation/00-architecture/MIGRATION-DOCS-INDEX-2026-09-28.md)  
+> **Product / archive catalog:** [Product-Archive-Repo-Catalog](https://github.com/RootRecord-Software-Solutions/RootRecord-Library/blob/main/Documentation/00-architecture/Product-Archive-Repo-Catalog-2026-09-28.md)  
+> **Live Pacific:** [RootRecord-Pacific-Solar-Server](https://github.com/RootRecord-Software-Solutions/RootRecord-Pacific-Solar-Server)  
+> **Library:** [RootRecord-Library](https://github.com/RootRecord-Software-Solutions/RootRecord-Library)
 
-- **Install:** open [Releases](https://github.com/RootRecord/rootrecord-weather-manager-mobile/releases), download the latest **APK** (or attached bundle if documented there), and install on your device. Sideloading is outside the Google Play review flow; only install builds you trust from this org.
-- **What changed:** see [CHANGELOG.md](CHANGELOG.md) and the text for each release.
-- **Website:** [rootrecord.info](https://rootrecord.info/)
+Mirror of weather-manager-mobile. **Do not develop here.** Product track D (Weather).
 
-## Support
-
-Use the contact options listed on [rootrecord.info](https://rootrecord.info/) (for example **Contact** or community links shown there).
-
-## Privacy & data
-
-High-level product positioning is described on the RootRecord site. For store or legal documents, follow links from the site or from future Play listings when available.
-
----
-
-**This repository does not contain application source code, build scripts, or internal engineering documentation.** Those stay in private maintainer repositories. If you are looking for ways to contribute code, please reach out through the site; we do not use this repo for pull requests against unreleased source.
+*Transition banner 2026-09-28 HST.*
